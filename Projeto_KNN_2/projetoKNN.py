@@ -1,6 +1,6 @@
 class ClassificadorKnn:
     '''
-    Classe teste
+    Classe do classificador de carteiras
     '''
     def __init__( self, data ):
         '''
